@@ -1,2 +1,15 @@
 # sysadm200
-Tools collection for learning level 2 system administration
+Material for for learning level 2 system administration:
+
+	Learning outcomes
+	Topics
+	Topics notes
+	Labs
+	Exercises
+	lab/exercise tools
+
+Tools for building:
+	learning outcomes
+	study notes
+	self learning labs
+	self evaluation exercises
