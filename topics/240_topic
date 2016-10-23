@@ -1,0 +1,16 @@
+% Installing, configuring and maintaning a Linux Server
+%% CentOS server
+%% Review of server scripting
+%% Server security
+%%% chroot
+%%% iptables
+%% Common server types
+%%% Infrastructure servers
+%%%% Security/Authentication (PAM, Kerberos)
+%%%% Directory server (DNS, LDAP)
+%%%% Configuraition Server (DHCP)
+%%%% Collaboration/Content Management systems (Wikimedia, Workpress)
+%%%% File Servers (SMB, NFS, HTTP)
+%%% Virtual Servers
+%%%% KVM
+%%%% VMWare
